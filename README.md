@@ -1,11 +1,12 @@
 ## 📚 Online Book store Management & Data Analysis (SQL Project)
 Yeh project PostgreSQL ka use karke ek Online Bookstore Database ko design karne aur uske upar various basic se lekar advanced SQL queries execute karke meaningful insights nikalne ke liye banaya gaya hai.
 
-## 🛠️ Database Schema & Structure
-  Is project mein teen main tables banayi gayi hain:
- * Books: Books ki details jaise Book_ID, Title, Author, Genre, Published_Year, Price, aur Stock store karta hai.
- * Customers: Customers ki personal details jaise Customer_ID, Name, Email, Phone, City, aur Country store karta hai.
- * Orders: Har ek order ka transaction record rakhta hai jisme Order_ID, Customer_ID, Book_ID, Order_Date, Quantity, aur Total_Amount shamil hain.
+## 🛠️ Database Schema & Tables Structure
+ * Database name : OnlineBookstore
+ * Books Table : Columns ( Book_ID, Title, Author, Genre, Published_Year, Price, Stock store )
+ * Customers Table : Columns ( Customer_ID, Name, Email, Phone, City, Country )
+ * Orders Table : Columns ( Order_ID, Customer_ID, Book_ID, Order_Date, Quantity, Total_Amount )
+
 
 ## 📊 Analysis & Queries Performed
 ## 🌱 Basic Questions:
@@ -35,14 +36,14 @@ Yeh project PostgreSQL ka use karke ek Online Bookstore Database ko design karne
  * Database: PostgreSQL
  * Language: SQL
  
-# Review 
- ## Create Database & Tables
+## Review 
+ ### Create Database & Tables
 
 
- ## Tables results
+ ### Tables results
 
 
- ## Retrieve all books in the "Fiction" genre.
+ ### Retrieve all books in the "Fiction" genre.
  
 
- ## Find the average price of books in the "Fantasy" genre
+ ### Find the average price of books in the "Fantasy" genre
