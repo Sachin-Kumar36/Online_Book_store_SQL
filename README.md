@@ -35,3 +35,14 @@ Yeh project PostgreSQL ka use karke ek Online Bookstore Database ko design karne
  * Database: PostgreSQL
  * Language: SQL
  
+# Review 
+ ## Create Database & Tables
+
+
+ ## Tables results
+
+
+ ## Retrieve all books in the "Fiction" genre.
+ 
+
+ ## Find the average price of books in the "Fantasy" genre
