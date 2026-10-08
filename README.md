@@ -40,12 +40,23 @@ These complex queries involve Joins, Subqueries, Group By clauses, and Aggregate
  
 ## Review 
  ### Create Database & Tables
+<img width="1366" height="724" alt="Create tables" src="https://github.com/user-attachments/assets/0b5d090b-cf5c-4421-a5bb-ef412465a775" />
+
+ ## Tables results
+ ### Books Table
+<img width="1366" height="725" alt="Books table" src="https://github.com/user-attachments/assets/9a256ebf-cb0a-426b-8d8e-f7bb557373b1" />
+
+### Customers Table
+<img width="1366" height="726" alt="customers table" src="https://github.com/user-attachments/assets/3d024de2-075f-4d82-80dc-06c2a6ee8864" />
+
+### Orders Table
+<img width="1366" height="725" alt="Orders table" src="https://github.com/user-attachments/assets/cdf7c399-c290-4ee5-b64a-da15ba17b331" />
+
+### Retrieve all books in the "Fiction" genre.
+<img width="1366" height="727" alt="Question 1" src="https://github.com/user-attachments/assets/f561537b-9352-4bc5-85a4-2ad0b984e09f" />
+
+###  Retrieve the total number of books sold for each genre.
+<img width="1366" height="726" alt="Question 2" src="https://github.com/user-attachments/assets/24906d98-d0f9-4fb6-b8b4-9d004da4210b" />
 
 
- ### Tables results
 
-
- ### Retrieve all books in the "Fiction" genre.
- 
-
- ### Find the average price of books in the "Fantasy" genre
